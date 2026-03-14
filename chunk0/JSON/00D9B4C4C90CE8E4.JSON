@@ -1,0 +1,79 @@
+{
+  "Data": {
+    "EnableSaving": true,
+    "Objectives": [
+      {
+        "Id": "8634eb93-505f-4581-a3ce-99320749cda0",
+        "Primary": true,
+        "ResetEvent": null,
+        "FailedEvent": null,
+        "IsHidden": true,
+        "SuccessEvent": {
+          "EventName": "Kill",
+          "EventValues": {
+            "RepositoryId": "d0c17d33-182b-45c7-92fe-96c376ca9301"
+          }
+        }
+      },
+      {
+        "Id": "4b7e895c-3fb1-4b28-bb2f-ef839b45e8df",
+        "Primary": true,
+        "ResetEvent": null,
+        "FailedEvent": null,
+        "IsHidden": true,
+        "SuccessEvent": {
+          "EventName": "Kill",
+          "EventValues": {
+            "RepositoryId": "3d1b5b6c-a1fe-430e-a4c4-57e76872fa1f"
+          }
+        }
+      },
+      {
+        "Id": "14e41bce-ae6d-4b7b-8e43-aa130cce17a6",
+        "ObjectiveType": "custom",
+        "Image": "images/contracts/Elusive/007_Negroni/objective1.jpg",
+        "ForceShowOnLoadingScreen": true,
+        "BriefingName": "$loc UI_CONTRACT_NEGRONI_OBJ_1_TITLE",
+        "BriefingText": "$loc UI_CONTRACT_NEGRONI_OBJ_1_DESC",
+        "HUDTemplate": {
+          "display": "$loc UI_CONTRACT_NEGRONI_OBJ_1_TITLE",
+          "iconType": 17
+        },
+        "Category": "secondary",
+        "Scope": "hit",
+        "Type": "statemachine",
+        "Definition": {
+          "States": {
+            "Start": {
+              "Uncovered": {
+                "Transition": "Success"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Bricks": [
+      "assembly:/_pro/scenes/missions/marrakesh/mission_marrakesh_negroni.brick"
+    ],
+    "GameChangers": []
+  },
+  "Metadata": {
+    "Id": "3716b654-a42c-45df-9db9-61795a6a3e46",
+    "IsPublished": true,
+    "Title": "UI_CONTRACT_NEGRONI_TITLE",
+    "Description": "UI_CONTRACT_NEGRONI_DESC",
+    "BriefingVideo": "briefing_negroni",
+    "DebriefingVideo": "debriefing_negroni",
+    "CodeName_Hint": "Negroni",
+    "Location": "LOCATION_MARRAKECH_NIGHT",
+    "ScenePath": "assembly:/_PRO/Scenes/Missions/Marrakesh/_scene_python.entity",
+    "TileImage": "images/contracts/Elusive/007_Negroni/Title.jpg",
+    "LastUpdate": "2015-03-10T12:00:00.441Z",
+    "CreationTimestamp": "2012-12-12T12:12:12.743Z",
+    "CreatorUserId": "00000000-0000-0000-0000-000000000000",
+    "Type": "flashback",
+    "Release": "1.13.x"
+  },
+  "UserData": {}
+}

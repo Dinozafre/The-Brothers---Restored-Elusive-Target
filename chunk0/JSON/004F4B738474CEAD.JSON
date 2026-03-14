@@ -1,0 +1,279 @@
+{
+  "Root": {
+    "Id": "1436cbe4-164b-450f-ad2c-77dec88f53dd",
+    "_comment": "Polarbear Arrival First Time",
+    "NarrativeContext": "Mission",
+    "Meta": {
+      "Ui": {
+        "Row": 3,
+        "Col": 7
+      }
+    },
+    "Children": [
+      {
+        "Id": "1d241b00-f585-4e3d-bc61-3095af1b96e2",
+        "_comment": "Polarbear Module 002",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 7
+          }
+        }
+      },
+      {
+        "Id": "b573932d-7a34-44f1-bcf4-ea8f79f75710",
+        "_comment": "Polarbear Module 002_B",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 7
+          }
+        }
+      },
+      {
+        "Id": "ada5f2b1-8529-48bb-a596-717f75f5eacb",
+        "_comment": "Polarbear Graduation",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 7
+          }
+        }
+      },
+      {
+        "Id": "00000000-0000-0000-0000-000000000200",
+        "_comment": "The Showstopper",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 1
+          }
+        }
+      },
+      {
+        "Id": "5ee4d771-6ab3-41fa-ab4f-04970d0ca327",
+        "_comment": "The Showstopper Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 1
+          }
+        }
+      },
+      {
+        "Id": "4e45e91a-94ca-4d89-89fc-1b250e608e73",
+        "_comment": "Paris Noel",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 1
+          }
+        }
+      },
+      {
+        "Id": "00000000-0000-0000-0000-000000000600",
+        "_comment": "World Of Tomorrow",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "644d36bd-1f88-44f9-9fed-14a51e5e3f6b",
+        "_comment": "World Of Tomorrow Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "7e3f758a-2435-42de-93bd-d8f0b72c63a4",
+        "_comment": "Ebola (Sapienza)",
+        "NarrativeContext": "Campaign",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "00000000-0000-0000-0001-000000000005",
+        "_comment": "Landslide",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "00000000-0000-0000-0001-000000000006",
+        "_comment": "Copperhead",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "00000000-0000-0000-0000-000000000400",
+        "_comment": "Too Big For Jail",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "7b2d5500-7853-4ad0-b68a-14be791cfba2",
+        "_comment": "Too Big For Jail Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "ced93d8f-9535-425a-beb9-ef219e781e81",
+        "_comment": "A House Built On Sand",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "db341d9f-58a4-411d-be57-0bc4ed85646b",
+        "_comment": "Tiger",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "ad5f9051-045d-4b8e-8a4d-d84429f467f8",
+        "_comment": "Tiger Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "024b6964-a3bb-4457-b085-08f9a7dc7fb7",
+        "_comment": "Zika (Bangkok)",
+        "NarrativeContext": "Campaign",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "42bac555-bbb9-429d-a8ce-f1ffdf94211c",
+        "_comment": "Bull",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "69b58abc-6535-4092-9afe-c046b26303e6",
+        "_comment": "Bull Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "ada6205e-6ee8-4189-9cdb-4947cccd84f4",
+        "_comment": "Rabies (Colorado)",
+        "NarrativeContext": "Campaign",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "0e81a82e-b409-41e9-9e3b-5f82e57f7a12",
+        "_comment": "Snow Crane",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "3d885714-fa9a-4438-9e0f-c58dbcaab8b8",
+        "_comment": "Snow Crane Pro1",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "a2befcec-7799-4987-9215-6a152cb6a320",
+        "_comment": "Flue (Hokkaido)",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      },
+      {
+        "Id": "3716b654-a42c-45df-9db9-61795a6a3e46",
+        "_comment": "Negroni",
+        "NarrativeContext": "Mission",
+        "Meta": {
+          "Ui": {
+            "Row": 3,
+            "Col": 5
+          }
+        }
+      }
+    ]
+  }
+}
